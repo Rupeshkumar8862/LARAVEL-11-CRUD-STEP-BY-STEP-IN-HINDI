@@ -1,0 +1,40 @@
+
+
+install project
+composer create-project laravel/laravel:^11 project_name
+cd project_name
+code .     =>open vs code
+  go=>.env file set database name
+php artisan make:model -mcr
+migration  =>set field name
+php artisan migrate 
+load controller in Route
+Blade template setting creating page
+php artisan route:list 
+create  route store 
+pass token 
+
+ORM create data save in database
+showing data in index page
+pagination 
+
+
+
+
+
+update 
+delete
+HOW TO LIVE 
+login need hosting 
+create subdomain 
+
+database cofig
+upload file in zip 
+set .htaccess file
+load your url in browser
+
+ 
+
+
+
+
