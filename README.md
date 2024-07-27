@@ -64,3 +64,14 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## must watch our 
+must watch laravel project
+myYoutobe:
+https://www.youtube.com/channel/UCv8E-Tioi1L9Bpx0mlAiCCg
+
+Instrgarm:
+https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbG4zSmF1R0RYRmF1QUxkX19COTVOQnpDMGV5Z3xBQ3Jtc0tsUzd6X0tmMzU3Q3kteVJ4dlRFcmNEdVhkQnFjbVNSekNMSUxJTHdBa211eVVNbzhPQzBrN2hlN29tVk1ycV9SOFl2dFN3QWhjY0tmU05sQXFwYzBSTk9YQ2FUY2U1aENrV0NOQmx5cjRhbmhVNFp0cw&q=https%3A%2F%2Fwww.instagram.com%2Frupeshtechnology%3Figsh%3DanBsbmxxZm44YXYw
+
+facebookPage:
+https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqa3lUTE14UGVZSjRJN3Nub1hxNVVvMGVXNmxNQXxBQ3Jtc0ttMmswZzhhdDFDakhMMDhuU3FUVFY4bG83SExxMFNFeDhTVUx2UkFtc3hEalItZkVIWEdENGV6Q2UwX2UyUWgzQk1GMG8xVXhrdTlwTUxnNzhEaEZkdUtWU1VXTktkYUJxTHc3Wk03d1R0cEZpbENVbw&q=https%3A%2F%2Fwww.facebook.com%2Frupeshtechnologieswebsoftware%3Fmibextid%3DZbWKwL
